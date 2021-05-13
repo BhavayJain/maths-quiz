@@ -1,0 +1,24 @@
+.login_div1 , .login_div2
+	{
+		background:white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+	body {
+
+		background-color: red;
+	}
+
+	
+#output {
+
+	background-color: white;
+	border-radius: 10px; 
+	border-top: 10px solid yellowgreen; 
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+	
